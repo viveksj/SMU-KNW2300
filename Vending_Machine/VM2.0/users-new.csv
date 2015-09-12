@@ -1,117 +1,1 @@
-ID,name,Admin (1/0),group
-46812393,Christopher,0,Dem Boys
-41058372,Parker ,0,Dem Boys
-39539062,Jake,0,Dem Boys
-46824119,Khyree,0,Dem Boys
-43860574,Frederick,0,Dem Boys
-46633760,Peter,0,Dem Boys
-39854013,Johnathan,0,Dem Boys
-43003003,Noah,0,Rocket Pops
-46519204,Victoria,0,Rocket Pops
-45491996,Larkin,0,Rocket Pops
-43201812,Scott,0,Rocket Pops
-39519640,Kyle,0,Rocket Pops
-46806361,Annamarie,0,Rocket Pops
-45714166,Chase,0,Everything Bagel
-44708733,Dylan,0,Everything Bagel
-46851926,Ava,0,Everything Bagel
-43203502,David,0,Everything Bagel
-43755001,Brandon,0,Everything Bagel
-43669422,Eric,0,Everything Bagel
-45266615,Ashrith,0,Maambo
-43803660,Oscar,0,Maambo
-43962507,Marika,0,Maambo
-43523653,Benjamin,0,Maambo
-46888716,Margaux,0,Maambo
-40371023,Adrien,0,Maambo
-43865007,Griffin,0,Maambo
-39996740,Denver,0,Slightly Above Average Joes
-46913663,Nhi Quynh,0,Slightly Above Average Joes
-45154477,Arkadijs,0,Slightly Above Average Joes
-46268694,Michael,0,Slightly Above Average Joes
-46035760,Spencer,0,Slightly Above Average Joes
-44679223,Yaohui,0,Slightly Above Average Joes
-42921181,Sean,0,The Les-Beat
-46835377,Ian,0,The Les-Beat
-43036894,Anthony,0,The Les-Beat
-42719239,Andrea,0,The Les-Beat
-43197626,Jacob,0,The Les-Beat
-43754091,Christopher,0,The Les-Beat
-40166520,Erin,0,The Les-Beat
-42636182,Chuhan,0,International Love
-41184082,Tyler,0,International Love
-42702170,Benjamin,0,International Love
-43472914,Smythe,0,International Love
-40284950,Anna,0,International Love
-40993502,Disha,0,International Love
-46799653,Calum,0,Smash Bros and Gals
-43999167,Jake,0,Smash Bros and Gals
-43649545,Jonathan,0,Smash Bros and Gals
-43855686,Jacob,0,Smash Bros and Gals
-43971230,Anne,0,Smash Bros and Gals
-45152267,John,0,Smash Bros and Gals
-42940473,Luke,0,Smash Bros and Gals
-46797586,Austin,0,Jazz Hands
-46815383,Kellen,0,Jazz Hands
-43263016,Jonathan,0,Jazz Hands
-46826420,Caroline,0,Jazz Hands
-46805360,Connor,0,Jazz Hands
-46215940,Jaime,0,Jazz Hands
-43749099,Ethan,0,Jazz Hands
-43943345,Mary,0,Fieri
-42887017,Connor,0,Fieri
-46818672,Cole,0,Fieri
-46453242,Robert,0,Fieri
-43678171,Courtney,0,Fieri
-44030016,Zachary,0,Fieri
-45848911,Alann,0,League of Extraordinary Gentlemen
-45487212,Wesley,0,League of Extraordinary Gentlemen
-41999013,Matthey,0,League of Extraordinary Gentlemen
-44622998,Jacob,0,League of Extraordinary Gentlemen
-46783481,Samuel,0,League of Extraordinary Gentlemen
-46800784,Austin,0,League of Extraordinary Gentlemen
-42792702,Austin,0,Globo Gym Purple Cobras
-44714713,Mingyu,0,Globo Gym Purple Cobras
-43560768,Traian,0,Globo Gym Purple Cobras
-43199706,Casey,0,Globo Gym Purple Cobras
-45585674,Carlos,0,Globo Gym Purple Cobras
-46892122,John,0,Globo Gym Purple Cobras
-46807999,Christopher,0,Globo Gym Purple Cobras
-46804671,John,0,Rustangs
-45278588,Coleman,0,Rustangs
-43500175,Kristina,0,Rustangs
-43767039,Marshall,0,Rustangs
-46883555,Levi,0,Rustangs
-45347631,Jenna,0,Rustangs
-43658021,Omar,0,Rustangs
-46900065,Tristan,0,Goldfish
-46839472,Steven,0,Goldfish
-44707706,Andrew,0,Goldfish
-42803050,Jessica,0,Goldfish
-44053468,Christian,0,Goldfish
-37278193,Susanna,0,Goldfish
-46811639,Will,0,Goldfish
-45920619,Jennifer,0,Beauties and the Geeks
-46808818,Nihar,0,Beauties and the Geeks
-46867188,Cooper,0,Beauties and the Geeks
-42955774,Andrea,0,Beauties and the Geeks
-46817034,Caroline,0,Beauties and the Geeks
-43048646,Daniel,0,Beauties and the Geeks
-43625651,Caitlin,0,Beauties and the Geeks
-40517884,Bryce,0,Straight Outta SMU
-43481169,Maya,0,Straight Outta SMU
-46802422,Lucas,0,Straight Outta SMU
-43560612,Keely,0,Straight Outta SMU
-43497614,Vinh,0,Straight Outta SMU
-35160454,Maximilliano,0,Straight Outta SMU
-35277636,Raymond,1,TA
-38854651,Ana,1,TA
-35528445,Sean,1,TA
-39159007,Holly,1,TA
-34879589,Tim,1,TA
-35528185,Nastasha,1,TA
-38040539,AndreTheMidget,1,TA
-28971284,Chris,1,TA
-37049211,Lizzie,1,TA
-40382684,George,1,TA
-40655554,No,1,TA
+ID,name,Admin (1/0),group46812393,Christopher,0,Dem Boys41058372,Parker ,0,Dem Boys39539062,Jake,0,Dem Boys46824119,Khyree,0,Dem Boys43860574,Frederick,0,Dem Boys46633760,Peter,0,Dem Boys39854013,Johnathan,0,Dem Boys43003003,Noah,0,Rocket Pops46519204,Victoria,0,Rocket Pops45491996,Larkin,0,Rocket Pops43201812,Scott,0,Rocket Pops39519640,Kyle,0,Rocket Pops46806361,Annamarie,0,Rocket Pops45714166,Chase,0,Everything Bagel44708733,Dylan,0,Everything Bagel46851926,Ava,0,Everything Bagel43203502,David,0,Everything Bagel43755001,Brandon,0,Everything Bagel43669422,Eric,0,Everything Bagel45266615,Ashrith,0,Maambo43803660,Oscar,0,Maambo43962507,Marika,0,Maambo43523653,Benjamin,0,Maambo46888716,Margaux,0,Maambo40371023,Adrien,0,Maambo43865007,Griffin,0,Maambo39996740,Denver,0,Slightly Above Average Joes46913663,Nhi Quynh,0,Slightly Above Average Joes45154477,Arkadijs,0,Slightly Above Average Joes46268694,Michael,0,Slightly Above Average Joes46035760,Spencer,0,Slightly Above Average Joes44679223,Yaohui,0,Slightly Above Average Joes42921181,Sean,0,The Les-Beat46835377,Ian,0,The Les-Beat43036894,Anthony,0,The Les-Beat42719239,Andrea,0,The Les-Beat43197626,Jacob,0,The Les-Beat43754091,Christopher,0,The Les-Beat40166520,Erin,0,The Les-Beat42636182,Chuhan,0,International Love41184082,Tyler,0,International Love42702170,Benjamin,0,International Love43472914,Smythe,0,International Love40284950,Anna,0,International Love40993502,Disha,0,International Love46799653,Calum,0,Smash Bros and Gals43999167,Jake,0,Smash Bros and Gals43649545,Jonathan,0,Smash Bros and Gals43855686,Jacob,0,Smash Bros and Gals43971230,Anne,0,Smash Bros and Gals45152267,John,0,Smash Bros and Gals42940473,Luke,0,Smash Bros and Gals46797586,Austin,0,Jazz Hands46815383,Kellen,0,Jazz Hands43263016,Jonathan,0,Jazz Hands46826420,Caroline,0,Jazz Hands46805360,Connor,0,Jazz Hands46215940,Jaime,0,Jazz Hands43749099,Ethan,0,Jazz Hands43943345,Mary,0,Fieri42887017,Connor,0,Fieri46818672,Cole,0,Fieri46453242,Robert,0,Fieri43678171,Courtney,0,Fieri44030016,Zachary,0,Fieri45848911,Alann,0,League of Extraordinary Gentlemen45487212,Wesley,0,League of Extraordinary Gentlemen41999013,Matthey,0,League of Extraordinary Gentlemen44622998,Jacob,0,League of Extraordinary Gentlemen46783481,Samuel,0,League of Extraordinary Gentlemen46800784,Austin,0,League of Extraordinary Gentlemen42792702,Austin,0,Globo Gym Purple Cobras44714713,Mingyu,0,Globo Gym Purple Cobras43560768,Traian,0,Globo Gym Purple Cobras43199706,Casey,0,Globo Gym Purple Cobras45585674,Carlos,0,Globo Gym Purple Cobras46892122,John,0,Globo Gym Purple Cobras46807999,Christopher,0,Globo Gym Purple Cobras46804671,John,0,Rustangs45278588,Coleman,0,Rustangs43500175,Kristina,0,Rustangs43767039,Marshall,0,Rustangs46883555,Levi,0,Rustangs45347631,Jenna,0,Rustangs43658021,Omar,0,Rustangs46900065,Tristan,0,Goldfish46839472,Steven,0,Goldfish44707706,Andrew,0,Goldfish42803050,Jessica,0,Goldfish44053468,Christian,0,Goldfish37278193,Susanna,0,Goldfish46811639,Will,0,Goldfish45920619,Jennifer,0,Beauties and the Geeks46808818,Nihar,0,Beauties and the Geeks46867188,Cooper,0,Beauties and the Geeks42955774,Andrea,0,Beauties and the Geeks46817034,Caroline,0,Beauties and the Geeks43048646,Daniel,0,Beauties and the Geeks43625651,Caitlin,0,Beauties and the Geeks40517884,Bryce,0,Straight Outta SMU43481169,Maya,0,Straight Outta SMU46802422,Lucas,0,Straight Outta SMU43560612,Keely,0,Straight Outta SMU43497614,Vinh,0,Straight Outta SMU35160454,Maximilliano,0,Straight Outta SMU35277636,Raymond,1,TA38854651,Ana,1,TA35528445,Sean,1,TA39159007,Holly,1,TA34879589,Tim,1,TA35528185,Nastasha,1,TA38040539,AndreTheMidget,1,TA28971284,Chris,1,TA37049211,Lizzie,1,TA40382684,George,1,TA40655554,No,1,TA41063221,Ashmi,1,TA38075171,Sam,1,TA46902769,Vivek,1,TA44086046,Amber,1,TA42103819,Xiadong,1,TA
